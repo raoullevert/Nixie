@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IRF644
-D IRF644N, 250V Vds, 8.5A Id, HEXFET N-Channel MOSFET, TO-220
-K HEXFET N-Channel MOSFET
-F http://www.vishay.com/docs/91039/91039.pdf
-$ENDCMP
-#
-#End Doc Library
